@@ -8,7 +8,6 @@ package controller;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import view.Inicio;
-kko,o,
 import view.NomeJogadores;
 
 /**
